@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Badger Badges",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "assets/icons/icon.png"
+  },
+  "host_permissions": ["https://open-api.thenational.academy/api/v0/*"],
+  "permissions": ["tabs"]
+}
