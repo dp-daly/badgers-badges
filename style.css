@@ -379,6 +379,7 @@ template {
   outline: 2px solid black;
   border-radius: 10px;
   background: white;
+  font-size: medium;
 }
 
 .checkbox-container{

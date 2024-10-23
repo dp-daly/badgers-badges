@@ -17,12 +17,15 @@ const badges = {
   },
   "critical-thinker": {
     title: "Critical thinker",
+    imgPath: "assets/icons/critical-thinker.png",
   },
   interpreter: {
     title: "Interpreter",
+    imgPath: "assets/icons/critical-thinker.png",
   },
   "self-reflector": {
     title: "Self reflector",
+    imgPath: "assets/icons/self-reflector.png",
   },
   empath: {
     imgPath: "assets/icons/empath.png",
@@ -30,9 +33,11 @@ const badges = {
   },
   "social-learner": {
     title: "Social learner",
+    imgPath: "assets/icons/orator.png",
   },
   scribe: {
     title: "Scribe",
+    imgPath: "assets/icons/wordsmith.png",
   },
   orator: {
     imgPath: "assets/icons/orator.png",
